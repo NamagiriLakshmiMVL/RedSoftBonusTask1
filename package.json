@@ -1,0 +1,21 @@
+{
+  "name": "bonus-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "chance": "^1.1.12",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "sharp": "^0.33.5",
+    "xlsx": "^0.18.5"
+  }
+}
